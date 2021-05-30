@@ -1,3 +1,8 @@
+## Control Flow Graph
+
+![ControlFlowGraph](https://user-images.githubusercontent.com/82380946/120117248-79530c00-c18c-11eb-82a7-fed1497bc746.png)
+
+
 ## Цикломатска комплексност
 
 Цикломатската комплексност за графот е 8.
